@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valeria1107
 - 👀 I’m interested in learning new things everyday.
 - 🌱 I’m currently learning full stack development and UX/UI design.
-- 💞️ I’m looking to collaborate on too much things to explain.
+- 💞️ I’m looking to collaborate on projects i like and set new goals everyday. 
 - 📫 How to reach me: vledesma.alegre@gmail.com
 
 <!---
